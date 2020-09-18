@@ -1,0 +1,4 @@
+# serverless.yml
+
+bizpalApp:
+  component: serverless-next.js
