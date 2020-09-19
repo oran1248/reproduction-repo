@@ -47,7 +47,8 @@
     "aws-sdk": false,
     "formidable": false,
     "cloudinary": false,
-    "nodemailer": false
+    "nodemailer": false,
+    "jsonwebtoken": false
   },
   "scripts": {
     "start": "next start",
